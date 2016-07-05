@@ -1,0 +1,5 @@
+c:\users\home\documents\visual studio 2012\Projects\KeepInventory\KeepInventory\obj\Debug\KeepInventory.csprojResolveAssemblyReference.cache
+c:\users\home\documents\visual studio 2012\Projects\KeepInventory\KeepInventory\bin\Debug\KeepInventory.dll
+c:\users\home\documents\visual studio 2012\Projects\KeepInventory\KeepInventory\bin\Debug\KeepInventory.pdb
+c:\users\home\documents\visual studio 2012\Projects\KeepInventory\KeepInventory\obj\Debug\KeepInventory.dll
+c:\users\home\documents\visual studio 2012\Projects\KeepInventory\KeepInventory\obj\Debug\KeepInventory.pdb
